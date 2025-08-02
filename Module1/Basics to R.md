@@ -26,3 +26,18 @@ During this module, we worked with a dataset containing anonymized patient infor
 - Age and gender
 - Diagnosis (e.g., cancer vs. normal)
 - BMI and smoking status
+we practiced :
+Creation of a working directory and R project, organization of folders, then loading and cleaning patient_info.csv by checking structure and converting data types
+
+  ## 🌱 What’s Next?
+
+This R introduction set the stage for upcoming modules focused on:
+- Differential gene expression analysis
+- Machine learning for classification
+- Functional enrichment and pathway analysis
+
+## 👩‍💻 Acknowledgments
+
+This module is part of the **AI_Omics_Internship_2025** program, created to empower students with real-world data analysis experience in precision medicine and bioinformatics.  
+
+Special thanks to our mentors and program coordinators for their guidance and support!
