@@ -49,3 +49,17 @@ for(col in binary_cols){
 #    Compare the original and modified datasets to confirm changes
 str(data)
 str(copy_data)
+# Use metadata
+metadata<-read.csv(file ="C:/Users/maram/OneDrive/Desktop/intital 1/self learning/Bioinformatics/projects/AI_Omics_Internship_2025/raw_data/Metadata.csv",sep = ";",stringsAsFactors = FALSE )
+# Perform the following steps separately on each dataset (data and metadata).
+# Create a copy of the dataset to work on.
+copy_data2<-metadata
+str(metadata)
+# Store their names  a variable (factor_cols).
+factor_cols2<-c("height","gender")
+# Use a for loop to convert all the columns in factor_cols to factor type.
+for (col in factor_cols2) {
+  copy_data2[[col]]<-as.factor(copy_data2[[col]])
+  
+}
+str(copy_data2)
