@@ -17,9 +17,7 @@ By the end of this module, participants were able to:
 - Understanding data types and structures (vectors, factors, data frames)
 
 ### 🔍 Data Manipulation
-- Subsetting, filtering, and selecting columns
 - Creating new variables (e.g., binary smoking status)
-- Using `dplyr` for grouping and summarizing.
 ## 🧬 Sample Use Case: Patient Metadata
 
 During this module, we worked with a dataset containing anonymized patient information, including:
@@ -28,13 +26,6 @@ During this module, we worked with a dataset containing anonymized patient infor
 - BMI and smoking status
 we practiced :
 Creation of a working directory and R project, organization of folders, then loading and cleaning patient_info.csv by checking structure and converting data types
-
-  ## 🌱 What’s Next?
-
-This R introduction set the stage for upcoming modules focused on:
-- Differential gene expression analysis
-- Machine learning for classification
-- Functional enrichment and pathway analysis
 
 ## 👩‍💻 Acknowledgments
 
