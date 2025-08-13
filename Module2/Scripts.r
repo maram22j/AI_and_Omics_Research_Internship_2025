@@ -7,15 +7,15 @@ str(data)
 # if true, it will prints “High Cholesterol”
 
 cholesterol <- 230
-if (data$cholesterol>240){
+if (cholesterol>240){
   print("High Cholesterol")
 }
 # 2. Blood Pressure Status (using if...else)
 # Write an if…else statement to check if blood pressure is normal.
 # If it’s less than 120, print: “Blood Pressure is normal”
 # If false then print: “Blood Pressure is high”
-Systolic_bp <- 130
-if (data$blood_pressure<120){
+blood_pressure <- 130
+if (blood_pressure<120){
   print("Blood Pressure is normal")
 }else{
   print("Blood pressure is high")
