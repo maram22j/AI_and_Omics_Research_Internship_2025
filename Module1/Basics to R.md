@@ -18,6 +18,7 @@ By the end of this module, participants were able to:
 
 ### 🔍 Data Manipulation
 - Creating new variables (e.g., binary smoking status)
+- R basic syntax
 ## 🧬 Sample Use Case: Patient Metadata
 
 During this module, we worked with a dataset containing anonymized patient information, including:
@@ -25,7 +26,8 @@ During this module, we worked with a dataset containing anonymized patient infor
 - Diagnosis (e.g., cancer vs. normal)
 - BMI and smoking status
 we practiced :
-Creation of a working directory and R project, organization of folders, then loading and cleaning patient_info.csv by checking structure and converting data types
+- Creation of a working directory and R project, organization of folders, then loading and cleaning patient_info.csv by checking structure and converting data types
+- Conducting R basic syntax by automating the type change of variables using if else statement and for loop 
 
 ## 👩‍💻 Acknowledgments
 
